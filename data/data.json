@@ -1,0 +1,46 @@
+{
+"couse" : [
+  {
+    "id": 1,
+    "title": "Learn React",
+    "description": "A comprehensive guide to learning React.js for building interactive UIs.",
+    "categories": ["Web Development", "JavaScript", "Frontend"],
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Mastering Tailwind CSS",
+    "description": "Learn how to style modern web applications with utility-first CSS.",
+    "categories": ["Web Design", "CSS", "Frontend"],
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "Node.js for Beginners",
+    "description": "An introduction to server-side JavaScript using Node.js.",
+    "categories": ["Backend", "JavaScript", "Node.js"],
+    "available": false
+  },
+  {
+    "id": 4,
+    "title": "Data Structures and Algorithms",
+    "description": "Learn the fundamentals of data structures and algorithms for technical interviews.",
+    "categories": ["Programming", "Algorithms"],
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Databases",
+    "description": "A beginner's course on relational databases and SQL.",
+    "categories": ["Backend", "Databases", "SQL"],
+    "available": false
+  },
+  {
+    "id": 6,
+    "title": "Docker Essentials",
+    "description": "Learn the basics of containerization and how to use Docker.",
+    "categories": ["DevOps", "Containers", "Backend"],
+    "available": true
+  }
+]
+}
